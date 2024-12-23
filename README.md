@@ -4,7 +4,7 @@
 
 This is a simple calculator application built using **React**. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The app allows users to input numbers and operators, perform calculations, and clear the display.
 
-![Screenshot 2024-12-23 224407](https://github.com/user-attachments/assets/103aa45f-40d9-4851-9c68-1aa79fef3b57)
+![Screenshot 2024-12-23 230206](https://github.com/user-attachments/assets/66e9c3bf-f0a0-49b4-a20c-adfb7085f563)
 <i>Preview</i>
 
 ## Project Structure
