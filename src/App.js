@@ -40,11 +40,10 @@ function App() {
           "8",
           "9",
           "*",
-          "+",
           "0",
-          "=",
-          "/",
           "C",
+          "/",
+          "=",
         ].map((label) => (
           <Button
             key={label}
